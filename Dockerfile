@@ -1,6 +1,6 @@
-FROM node:12.13.0
+FROM node:lts
 
-LABEL version="1.3.1"
+LABEL version="1.4.0"
 LABEL repository="https://github.com/urbanisierung/firebase-action"
 LABEL homepage="https://github.com/urbanisierung/firebase-action"
 LABEL maintainer="Adam Urban <urbanisierung@github.com>"
